@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="30px" height="24px" viewBox="0 0 30 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44 (41411) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="translate(-942.000000, -3286.000000)" id="Footer" stroke="#666666" stroke-width="1.6">
+            <g transform="translate(0.000000, 3217.000000)">
+                <g id="Top-Footer" transform="translate(0.000000, 2.000000)">
+                    <g id="Links" transform="translate(259.000000, 57.000000)">
+                        <g id="Community" transform="translate(684.000000, 6.000000)">
+                            <path d="M27.3421053,21.8220007 C27.3421053,22.3797018 26.8978548,22.8318078 26.3417291,22.8318078 L14.8598398,22.8318078 L7.98918354,27.059904 C7.51617351,27.3509871 7.13272311,27.1481269 7.13272311,26.5785118 L7.13272311,22.8318078 L0.991774587,22.8318078 C0.444032607,22.8318078 0,22.3910191 0,21.8220008 L0,6.00980723 C0,5.45210621 0.451761073,5.0000002 1.00554688,5.00000019 L26.3365584,5 C26.8919066,5 27.3421053,5.4407887 27.3421053,6.00980704 L27.3421053,21.8220007 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,148 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Circular-Book", Helvetica, sans-serif;
+  font-size: 16px;
+  color: #3c3c3c;
+  margin: 0;
+}
+
+.header,
+#mileiq {
+  width: 28px;
+  display: flex;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+  padding: 3%;
+}
+
+h2 {
+  color: orange;
+}
+
+.img3 {
+  width: 25px;
+  margin-right: 10px;
+  border-right: 1px solid #e3e0d8;
+  padding: 15px;
+}
+.img2 {
+  width: 100%;
+  border-bottom: solid 10px orange;
+}
+.lupa {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: #fcfbf7;
+}
+.firsttext,
+h3 {
+  text-align: center;
+  font-size: large;
+}
+.block1 {
+  border: 1px solid #e3e0d8;
+  padding: 1%;
+  margin: 15px;
+}
+.child1 {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin: 20px;
+  border-bottom: 2px solid orange;
+  padding: 30px;
+}
+.img4 {
+  width: 40px;
+  display: flex;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+}
+.art1,
+.bottom {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+p {
+  margin: 10px;
+}
+
+#n1,
+#n2,
+#n3,
+#word2 {
+  border-bottom: 1px solid #e3e0d8;
+}
+
+.img5 {
+  width: 10px;
+  margin-left: 5px;
+}
+.arrow1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.box,
+#box {
+  display: flex;
+  text-align: center;
+  color: black;
+  margin-top: 40px;
+  justify-content: center;
+}
+#box1 {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  border: 1px solid #e3e0d8;
+  padding: 10px 100px;
+  margin: 20px;
+}
+
+.icons {
+  display: flex;
+  flex-direction: column;
+}
+
+.imageicons {
+  width: 50px;
+  display: flex;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contact {
+  background-color: #fcf9f3;
+}
+
+.contacus,
+.store {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10px;
+  margin: 10px;
+}
+
+#storeimg {
+  width: 180px;
+  height: 70px;
+}
+
+#word1 {
+  border-bottom: 2px solid orange;
+  padding-bottom: 10px;
+}

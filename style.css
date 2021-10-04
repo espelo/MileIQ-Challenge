@@ -100,13 +100,14 @@ p {
   justify-content: center;
   flex-direction: column;
 }
+
 #box1 {
   display: flex;
   flex-direction: column;
   text-align: center;
   justify-content: space-around;
   border: 1px solid #e3e0d8;
-  padding: 5px 5px;
+  padding: 5px 0px;
   margin: 20px;
   width: 100px;
 }

@@ -24,10 +24,10 @@ h2 {
 }
 
 .img3 {
-  width: 25px;
+  width: 40px;
   margin-right: 10px;
   border-right: 1px solid #e3e0d8;
-  padding: 15px;
+  padding: 10px;
 }
 .img2 {
   width: 100%;
@@ -43,7 +43,7 @@ h2 {
 .firsttext,
 h3 {
   text-align: center;
-  font-size: large;
+  font-size: medium bold;
 }
 .block1 {
   border: 1px solid #e3e0d8;
@@ -97,22 +97,24 @@ p {
   display: flex;
   text-align: center;
   color: black;
-  margin-top: 40px;
   justify-content: center;
+  flex-direction: column;
 }
 #box1 {
   display: flex;
   flex-direction: column;
   text-align: center;
-  justify-content: center;
+  justify-content: space-around;
   border: 1px solid #e3e0d8;
-  padding: 5px 28px;
+  padding: 5px 5px;
   margin: 20px;
+  width: 100px;
 }
 
 .icons {
   display: flex;
   flex-direction: row;
+  justify-content: space-around;
 }
 
 .imageicons {
